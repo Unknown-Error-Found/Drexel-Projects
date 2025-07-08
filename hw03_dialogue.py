@@ -1,6 +1,4 @@
 #Program: hw03_dialogue.py
-#Name: Nabilah Jerin
-#Date: January 27, 2025
 #Description: The program will first show a set of choices between three different characters.
 #The user then can interact with the characters and ask a variety of questions or comments about the town,
 #the people, and a potential red-haired guy. The program runs like a videogame dialouge.
